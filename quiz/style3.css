@@ -1,0 +1,24 @@
+#top{
+text-align:right;
+}
+.img{
+height:300px; 
+background-color:white;  
+background-image:url("11.png");
+background-size: 250px 300px;
+background-position:center;
+ background-repeat: no-repeat;
+padding:20px;
+text-align:center;
+
+}
+.pro{
+text-align:center;	
+}
+.bu{
+text-align:center;
+}
+.bu1{
+height:300px; 
+text-align:center;
+}

@@ -1,0 +1,48 @@
+.wrapper{
+width:1225px;
+background:#eee;
+margin: 0 auto 0 auto;
+}
+
+.heading{
+height:100px; 
+background-color:white;  
+background-image:url("nn.png");
+background-size: 250px 100px;
+background-position:center;
+ background-repeat: no-repeat;
+padding:20px;
+text-align:center;
+}
+#top{
+background:white;
+text-align:right;
+height:15px;	
+}
+.navigation{
+height:50px;
+padding:2;
+word-spacing:100px;
+background:lightgreen;
+}
+.content{
+min-height:400px;
+background:white;
+font-weight:bold;
+width:625px;
+float:left;
+}
+.sidebar{
+width:600px;
+float:right;
+background-image:url("b.png");
+min-height: 400px;
+}
+.footer{
+clear:both;
+background:black;
+height:15px;
+color:white;
+text-align:center;
+padding:10px;
+}
